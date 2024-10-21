@@ -1,6 +1,6 @@
 public class Ave extends SerVivo implements Ente{
 	public void surgir(){
-		System.out.println("Soy ovíparo, nací de un huevo");
+		System.out.println("Soy ovíparo, \n nací de un huevo");
 	}
 
 	public void caminar(){
